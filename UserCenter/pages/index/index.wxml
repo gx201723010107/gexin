@@ -1,0 +1,11 @@
+<!--index.wxml-->
+<view class="nav">
+  <text class="welcome">欢迎来到我的个人页</text>
+  <image src="/images/zhj.png" mode="aspectFill" bindtap="changeImage"></image>
+</view>
+<view class="content">
+  <view>昵称：ZHJ</view>
+  <view>兴趣：玩</view>
+  <view>QQ：489275003</view>
+  <view>电话：17853807730</view>
+</view>
